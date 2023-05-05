@@ -29,8 +29,8 @@ Você pode adicionar a sua própria, seguindo esse [ tutorial ](https://github.c
 
 
 Lista de Link
-1.Guia de [markdown](https://docs.pipz.com/central-de-ajud...)
-2.Site de [emojis](https://emojipedia.org/search/?q=bag)
-3.Repositório do [Github Stats](https://github.com/anuraghazra/github...)
-4.Site de [Badges 1](https://dev.to/envoy_/150-badges-for-...)
-5.Fazedor de [gifs](https://picrew.me/image_maker/338224)
+* Guia de [markdown](https://docs.pipz.com/central-de-ajud...)
+* Site de [emojis](https://emojipedia.org/search/?q=bag)
+* Repositório do [Github Stats](https://github.com/anuraghazra/github...)
+* Site de [Badges 1](https://dev.to/envoy_/150-badges-for-...)
+* Fazedor de [gifs](https://picrew.me/image_maker/338224)
