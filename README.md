@@ -2,21 +2,6 @@
 
 Olá e bem-vindo(a)!
 
-Meu nome é Rayane, e estou entusiasmada em compartilhar um pouco sobre minha jornada no mundo da tecnologia. Minha história começou em 2017, quando tive meu primeiro contato com a tecnologia ao realizar um curso técnico em informática com ensino médio. Essa experiência despertou meu interesse pela área e me mostrou o potencial fascinante da tecnologia.
-
-No entanto, após concluir o curso, acabei me afastando temporariamente do campo e trabalhei em atendimento ao cliente. Apesar disso, minha paixão pela tecnologia nunca diminuiu. Hoje, estou determinada a me aprofundar ainda mais nesse vasto universo.
-
-Neste momento, tenho focado meus estudos em front-end, desenvolvendo minhas habilidades em HTML, CSS e JavaScript. Acredito que a experiência do usuário é um aspecto fundamental de qualquer projeto, e estou constantemente explorando maneiras de melhorar a interface e a usabilidade dos produtos.
-
-Além disso, estou animada em compartilhar que darei um passo adiante em minha jornada acadêmica. No próximo mês, iniciarei minha graduação em Análise e Desenvolvimento de Sistemas. Essa oportunidade de aprendizado formal complementará minhas habilidades autodidatas e me ajudará a desenvolver uma base sólida em conceitos e práticas fundamentais.
-
-Meu objetivo final é realizar uma migração de carreira bem-sucedida e me tornar uma profissional de destaque na área de tecnologia. Embora eu esteja no estágio inicial de minha jornada, estou comprometida em enfrentar desafios, aprender com cada experiência e crescer continuamente como desenvolvedora.
-
-Estou ansiosa para colaborar com outros profissionais talentosos neste ambiente colaborativo do GitHub. Sou consciente de que ainda tenho muito a aprender, mas estou motivada a contribuir com projetos e aprender com a comunidade para aprimorar minhas habilidades.
-
-Se você estiver interessada em trabalhar juntos(as) ou trocar conhecimentos, não hesite em entrar em contato. Vamos construir um futuro tecnológico incrível juntos(as)!
-
-Grata pela visita ao meu perfil do GitHub.
 <div>
 <a href="https://github.com/ferreira-cmk">
 
